@@ -1,7 +1,7 @@
 ### Opa! Eu sou o Watson 👋
 
-- 🌱 Estudante de Análise e Desenvolvimento de Sistemas
-- ☕ JAVA
+- Atualmente estou como Dev Junior.
+- ☕ Full stack
 
 ##
 <div>
