@@ -17,11 +17,7 @@ Desenvolvedor Full Stack com foco em **Java/Spring** no backend e **TypeScript**
 
 ### 🚀 Projetos
 
-A maioria dos meus projetos atuais está em **repositórios privados**, alguns pessoais e outros feitos pra clientes. Entre eles:
-
-- 💸 **ControlFinUatts**: app de controle financeiro pessoal
-- 🧊 **3D Cicilia**: projeto web pra um negócio de impressão 3D
-- 🔒 E outros projetos que não posso deixar públicos
+A maioria dos meus projetos atuais está em **repositórios privados**, alguns pessoais e outros feitos pra uso no geral.
 
 Quer saber mais sobre algum deles? Me chama no LinkedIn!
 
